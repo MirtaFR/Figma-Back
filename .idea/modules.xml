@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../example_figma_server/.idea/example_figma.iml" filepath="$PROJECT_DIR$/../example_figma_server/.idea/example_figma.iml" />
+      <module fileurl="file://$USER_HOME$/WebstormProjects/examplefigmaserver/.idea/examplefigmaserver.iml" filepath="$USER_HOME$/WebstormProjects/examplefigmaserver/.idea/examplefigmaserver.iml" />
+      <module fileurl="file://$USER_HOME$/WebstormProjects/untitled/.idea/untitled.iml" filepath="$USER_HOME$/WebstormProjects/untitled/.idea/untitled.iml" />
+    </modules>
+  </component>
+</project>
